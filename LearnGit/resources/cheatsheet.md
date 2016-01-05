@@ -13,10 +13,15 @@
 		git branch -a
 
 ##### Moving onto a branch
+		
 		git checkout <branch name>
 
 ##### Deleting a branch
-		git branch -d <branch name>
+		case 1: Delete a branch. The branch must be fully merged in its upstream
+           branch
+			git branch -d <branch name>
+		case 2: Delete a branch irrespective of its merged status.
+			git branch -D <branch name>			
 
 ##### Moving files while preserving git history
 		git mv <source> <destination>
