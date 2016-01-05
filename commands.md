@@ -242,8 +242,24 @@ pull - fetch the changes from a remote repository and merge it with the local br
 	git pull origin
 		Merge the current local branch with the branch pointed to be HEAD in the remote repository
 
-	
+Git Ignore
+----------
 
+Used to determine which files and directories to ignore before making a commit.
+
+touch . gitignore - create a gitignore file
+
+Now you can add specific filenames and directory names in this file which will be ignored. You can also add comments.
+
+	Examples(file entries):
+	
+	*.o 
+		Ignores all filenames ending with the .o extension
+		
+	db/sql
+		Ignores this directory
+		
+	
 NOTE 
 ----
 	Current branch refers to the branch the user is currently working in, i.e. currently checked out branch
