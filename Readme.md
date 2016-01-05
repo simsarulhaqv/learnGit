@@ -26,4 +26,5 @@ Here are the activities you will complete in this class. If you get stuck or hav
 12. Merge your changes. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/merge-your-pull-request.md)
 
 This is in branch challenge4
-(This is not a necessary message. Adding for the purpose of challenge 4)
+(This is not a necessary message. Adding for the purpose of challenge 4).
+This is again added for the purpose of challenge 4.
