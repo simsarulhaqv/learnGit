@@ -85,7 +85,7 @@ diff - To print details regarding files which have been modified after the last 
 	git diff HEAD
 		Show the changes between the current working directory and the previous commit
 
-rm - To remove a tracked file
+rm - To remove a tracked file, or a folder
 	
 	Examples:
 	
