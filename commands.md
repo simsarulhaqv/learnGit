@@ -259,7 +259,19 @@ Now you can add specific filenames and directory names in this file which will b
 	db/sql
 		Ignores this directory
 		
-	
+Pull Requests
+-------------
+
+Fork the repository you want to contribute to.
+
+Clone your repo on to your local system using git clone.
+
+Make the necessary changes and commit them.
+
+Push the changes onto your repo.
+
+Send the pull request to the source repo using the create pull request button.
+
 NOTE 
 ----
 	Current branch refers to the branch the user is currently working in, i.e. currently checked out branch
