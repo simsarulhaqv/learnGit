@@ -50,7 +50,11 @@ add - To start tracking a file and/or to stage a file
 		Track/Stage all the untracked/unstaged files in the current directory
 	git add myfolder
 		Recursively Track/Stage all the untracked/unstaged files under the directory "myfolder"
-
+	git add -A
+		equivalent to git add .; git add -u
+	git add -u 
+		looks at all the already tracked files and stages the changes to those files if they are different or if they have been removed. It does not add any new files, it only stages changes 			to already tracked files.
+	
 commit - To commit the changes made in the repository's directory
 
 	Examples:
