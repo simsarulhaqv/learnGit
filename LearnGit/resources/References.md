@@ -9,4 +9,5 @@
 
 [Another Guide](http://gitref.org/)
 
-[Interactive Guide for Git] (https://www.codecademy.com/learn/learn-git)
+[Interactive Guide] (https://www.codecademy.com/learn/learn-git)
+
