@@ -25,4 +25,9 @@
 
 ##### Moving files while preserving git history
 		git mv <source> <destination>
- 
+
+##### Stashing away your dirty working directory
+		git stash
+
+##### Show remote URL after name
+		git remote -v 
