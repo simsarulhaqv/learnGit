@@ -60,6 +60,9 @@ commit - To commit the changes made in the repository's directory
 		
 	git commit -a -m "sample commit"
 		Commit changes made in all the files currently being tracked
+	
+	git commit --amend -m “sample commit”
+		To change the messge of your most recent commit, which is not yet pushed to remote.
 
 status - To print details regarding the changes made in the repository's directory
 
