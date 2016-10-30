@@ -24,3 +24,4 @@ Here are the activities you will complete in this class. If you get stuck or hav
 10. Create a new file using the desktop apps. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/new-file-on-desktop.md)
 11. Push your changes to GitHub. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/push-changes-desktop.md)
 12. Merge your changes. [Instructions](https://github.com/certify/template-everyone/blob/master/instructions/merge-your-pull-request.md)
+13. See how git stash works [Documentation](https://git-scm.com/docs/git-stash)
