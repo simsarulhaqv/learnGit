@@ -6,6 +6,12 @@
 ##### Checking that status of your local repository
 		git status
 
+##### Adding all modified files to staging area
+                git add -A
+
+##### Make a commit
+                git commit 
+
 ##### Creating a new branch for you to work on
 		git branch <new branch name>
 
@@ -29,5 +35,13 @@
 ##### Stashing away your dirty working directory
 		git stash
 
+##### Add a new remote repository on github
+                git remote add <name of remote> <URL of repo on github>
+##### Push changes to reote on github
+                git push <remote name> <name of branch>
+
 ##### Show remote URL after name
 		git remote -v 
+
+##### Reset to last commit
+                git reset --hard
