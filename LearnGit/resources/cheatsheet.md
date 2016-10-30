@@ -31,3 +31,5 @@
 
 ##### Show remote URL after name
 		git remote -v 
+##### Moving to the perticular commit
+		git checkout <commit id>
