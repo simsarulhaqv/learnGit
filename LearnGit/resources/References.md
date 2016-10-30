@@ -11,3 +11,5 @@
 
 [Interactive Guide] (https://www.codecademy.com/learn/learn-git)
 
+[Udacity course on Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+
